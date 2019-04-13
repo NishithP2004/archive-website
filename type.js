@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded',function(event){
-  var dataText = [ "Hi,I'm Nishith P ", "Coder", " Ethical Hacker", "Google Code-in contestant", "Open Source contributor", "Google enthusiast", "Developer", "14"];
+  var dataText = [ "Hi,I'm Nishith P ", "Coder", " Ethical Hacker", "Google Code-in contestant", "Open Source contributor", "Google enthusiast", "Developer", "a four-teen yr"];
   function typeWriter(text, i, fnCallback) {
     if (i < (text.length)) {
      document.querySelector("h1").innerHTML = text.substring(0, i+1) +'<span aria-hidden="true"></span>';
