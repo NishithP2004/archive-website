@@ -62,7 +62,6 @@ h1, h2 {
 }
 
 /* ---- particles.js container ---- */
-
 #particles-js{
   position: fixed;
   width: 100%;
@@ -70,8 +69,7 @@ h1, h2 {
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
-  background-repeat: no-repeat;
-   
+  background-repeat: no-repeat;   
 }
 
 .box
