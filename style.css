@@ -73,6 +73,11 @@ h1, h2 {
 
 }
 
+#overlay {
+    position: relative;
+    
+}
+
 .box
 {
 	margin: 0 2.2em;
