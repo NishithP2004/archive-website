@@ -41,6 +41,19 @@ body.fade {
   animation: gradientShift 18s ease infinite;
 }
 
+.menu-text {
+	width: 50px;
+	height: 35px;
+	font-size: 30px; 
+	color: #ffffff;
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 50px;
+	margin: 10px;
+	z-index: 9;
+}
+
 #sidebarMenu {
     height: 100%;
     position: fixed;
